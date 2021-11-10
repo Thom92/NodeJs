@@ -1,0 +1,26 @@
+{
+  "name": "nodejshandin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thom92/NodeJsHandin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thom92/NodeJsHandin/issues"
+  },
+  "homepage": "https://github.com/Thom92/NodeJsHandin#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2"
+  }
+}
